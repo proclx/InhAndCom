@@ -1,0 +1,15 @@
+AutoTrip Toyota 15 Miami 450
+PlaneTrip Delta_Airlines 400 Honolulu 4
+PlaneTrip United_Airlines 300 Sydney 5
+AutoTrip Ford 12 San_Diego 300
+AutoTrip Chevrolet 17 Barcelona 200
+PlaneTrip Emirates 450 Phuket 4
+PlaneTrip Lufthansa 350 Maldives 3
+AutoTrip BMW 14 Rio_de_Janeiro 350
+AutoTrip Mercedes_Benz 20 Nice 150
+PlaneTrip Qatar_Airways 200 Santorini 5
+PlaneTrip Air_France 250 Cancun 2
+AutoTrip Audi 13 Cape_Town 400
+AutoTrip Tesla 18 Malibu 200
+AutoTrip Volkswagen 16 Lisbon 350
+PlaneTrip Singapore_Airlines 300 Bali 5
